@@ -1,7 +1,7 @@
-## What are you doing here!
+## What are you doing here! :expressionless:
 ***
 
-<h3 align="left">I'm Julle, Welcome to my profile</h3>
+- 20 years old Fivem developer from **Finland**
 
 - Currently developing on **HellcityRP**
 
