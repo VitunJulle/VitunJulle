@@ -12,7 +12,7 @@
 <a href="https://discordapp.com/users/298494111739281409" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Julle#1337" height="50" width="50"/></a>
 <a href="https://steamcommunity.com/id/vitunjulle" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/1200px-Breezeicons-apps-48-steam.svg.png" alt="Steam" height="50" width="50"/></a>
 <a href="https://discord.gg/hellcityrp" target="blank"><img align="center" src="https://i.imgur.com/ayUgmh2.png" alt="Hellcity" height="50" width="50"/></a>
-<a href="https://discord.gg/jtva8vAUCz" target="blank"><img align="center" src="https://i.imgur.com/xleaSjh.png" alt="Wildlife" height="50" width="50"/></a>
+<a href="https://discord.gg/jtva8vAUCz" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/120525841?s=200&v=4" alt="Wildlife" height="50" width="50"/></a>
 </p>
 
 ### Languages and Tools :</h3>
