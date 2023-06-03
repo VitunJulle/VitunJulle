@@ -1,7 +1,7 @@
 ## What are you doing here! :expressionless:
 ***
 
-- 20 years old **Redm** developer from **Finland**
+- 20 years old **Fivem** developer from **Finland**
 - Currently developing on **Hellcity**
 - **Workaholic** :fire:
 
