@@ -1,8 +1,8 @@
 ## What are you doing here! :expressionless:
 ***
 
-- 20 years old **Fivem** developer from **Finland**
-- Currently developing on **Hellcity**
+- 21 years old **Fivem** developer from **Finland**
+- Currently developing on **PKRP**
 - **Workaholic** :fire:
 
 
@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://discordapp.com/users/298494111739281409" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Julle#1337" height="50" width="50"/></a>
 <a href="https://steamcommunity.com/id/vitunjulle" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/1200px-Breezeicons-apps-48-steam.svg.png" alt="Steam" height="50" width="50"/></a>
-<a href="https://discord.gg/hellcityrp" target="blank"><img align="center" src="https://i.imgur.com/ayUgmh2.png" alt="Hellcity" height="50" width="50"/></a>
+<a href="https://discord.gg/pkrp" target="blank"><img align="center" src="https://i.imgur.com/bFZPjEU.png" alt="Pelikenttä" height="50" width="50"/></a>
 
 ### Languages and Tools :</h3>
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
