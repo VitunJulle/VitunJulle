@@ -1,8 +1,8 @@
 ## What are you doing here! :expressionless:
 ***
 
-- 21 years old **Fivem** developer from **Finland**
-- Currently developing on **PKRP**
+- 22 years old **Fivem** developer from **Finland**
+- Currently developing at **PKRP**
 - **Workaholic** :fire:
 
 
