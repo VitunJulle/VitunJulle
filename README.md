@@ -2,15 +2,15 @@
 ***
 
 - 23 years old **Fivem** developer from **Finland**
-- Currently developing at **PKRP**
+- Currently developing at **Lore**
 - **Workaholic** :fire:
-
+- [**Keep going**](https://www.youtube.com/watch?v=TBuIGBCF9jc&t=91)
 
 ### Socials :</h2>
 <p align="left">
 <a href="https://discordapp.com/users/298494111739281409" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Julle#1337" height="70" width="70"/></a>
 <a href="https://steamcommunity.com/id/vitunjulle" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/1200px-Breezeicons-apps-48-steam.svg.png" alt="Steam" height="70" width="70"/></a>
-<a href="https://discord.gg/pkrp" target="blank"><img align="center" src="https://i.imgur.com/4ymH0LI.png" alt="Pelikenttä" height="70" width="70"/></a>
+<a href="https://discord.gg/lore" target="blank"><img align="center" src="https://i.imgur.com/GU4By0k.png" alt="Lore" height="70" width="70"/></a>
 
 ### Languages and Tools :</h2>
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="60" height="60"/></a>
